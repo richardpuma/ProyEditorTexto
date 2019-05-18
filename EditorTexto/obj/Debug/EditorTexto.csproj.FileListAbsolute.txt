@@ -1,0 +1,31 @@
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.FormEditorTexto.resources
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\EditorTexto.FormPrincipal.resources
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.Properties.Resources.resources
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\EditorTexto.csproj.GenerateResource.cache
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\EditorTexto.csproj.CoreCompileInputs.cache
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.exe
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.pdb
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\EditorTexto.EditorTexto.resources
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\bin\Debug\AdvancedTextEditorCSharp.exe
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\bin\Debug\AdvancedTextEditorCSharp.pdb
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\EditorTexto.csprojAssemblyReference.cache
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\EditorTexto\bin\Debug\AdvancedTextEditorCSharp.exe
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\EditorTexto\bin\Debug\AdvancedTextEditorCSharp.pdb
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\EditorTexto\obj\Debug\EditorTexto.csprojAssemblyReference.cache
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\EditorTexto\obj\Debug\EditorTexto.EditorTexto.resources
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\EditorTexto\obj\Debug\AdvancedTextEditorCSharp.FormEditorTexto.resources
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\EditorTexto\obj\Debug\EditorTexto.FormPrincipal.resources
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\EditorTexto\obj\Debug\AdvancedTextEditorCSharp.Properties.Resources.resources
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\EditorTexto\obj\Debug\EditorTexto.csproj.GenerateResource.cache
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\EditorTexto\obj\Debug\EditorTexto.csproj.CoreCompileInputs.cache
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\EditorTexto\obj\Debug\AdvancedTextEditorCSharp.exe
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\EditorTexto\obj\Debug\AdvancedTextEditorCSharp.pdb
+D:\UNMSM\GESTION DE PROYECTOS DE SW\TRABAJO GRUPAL GP\Proyecto_EditorTexto\EditorTexto\bin\Debug\AdvancedTextEditorCSharp.exe
+D:\UNMSM\GESTION DE PROYECTOS DE SW\TRABAJO GRUPAL GP\Proyecto_EditorTexto\EditorTexto\bin\Debug\AdvancedTextEditorCSharp.pdb
+D:\UNMSM\GESTION DE PROYECTOS DE SW\TRABAJO GRUPAL GP\Proyecto_EditorTexto\EditorTexto\obj\Debug\EditorTexto.csprojAssemblyReference.cache
+D:\UNMSM\GESTION DE PROYECTOS DE SW\TRABAJO GRUPAL GP\Proyecto_EditorTexto\EditorTexto\obj\Debug\EditorTexto.FormPrincipal.resources
+D:\UNMSM\GESTION DE PROYECTOS DE SW\TRABAJO GRUPAL GP\Proyecto_EditorTexto\EditorTexto\obj\Debug\AdvancedTextEditorCSharp.Properties.Resources.resources
+D:\UNMSM\GESTION DE PROYECTOS DE SW\TRABAJO GRUPAL GP\Proyecto_EditorTexto\EditorTexto\obj\Debug\EditorTexto.csproj.GenerateResource.cache
+D:\UNMSM\GESTION DE PROYECTOS DE SW\TRABAJO GRUPAL GP\Proyecto_EditorTexto\EditorTexto\obj\Debug\EditorTexto.csproj.CoreCompileInputs.cache
+D:\UNMSM\GESTION DE PROYECTOS DE SW\TRABAJO GRUPAL GP\Proyecto_EditorTexto\EditorTexto\obj\Debug\AdvancedTextEditorCSharp.exe
+D:\UNMSM\GESTION DE PROYECTOS DE SW\TRABAJO GRUPAL GP\Proyecto_EditorTexto\EditorTexto\obj\Debug\AdvancedTextEditorCSharp.pdb

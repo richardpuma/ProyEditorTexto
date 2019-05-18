@@ -1,0 +1,38 @@
+U:\thecodingguys\Website\tcg\Files\Main\Projects\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\bin\Debug\AdvancedTextEditorCSharp.exe
+U:\thecodingguys\Website\tcg\Files\Main\Projects\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\bin\Debug\AdvancedTextEditorCSharp.pdb
+U:\thecodingguys\Website\tcg\Files\Main\Projects\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.csprojResolveAssemblyReference.cache
+U:\thecodingguys\Website\tcg\Files\Main\Projects\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.AdvancedTextEditor.resources
+U:\thecodingguys\Website\tcg\Files\Main\Projects\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.Properties.Resources.resources
+U:\thecodingguys\Website\tcg\Files\Main\Projects\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.csproj.GenerateResource.Cache
+U:\thecodingguys\Website\tcg\Files\Main\Projects\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.exe
+U:\thecodingguys\Website\tcg\Files\Main\Projects\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.pdb
+C:\Users\Diego\Downloads\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\bin\Debug\AdvancedTextEditorCSharp.exe
+C:\Users\Diego\Downloads\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\bin\Debug\AdvancedTextEditorCSharp.pdb
+C:\Users\Diego\Downloads\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.csprojAssemblyReference.cache
+C:\Users\Diego\Downloads\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.AdvancedTextEditor.resources
+C:\Users\Diego\Downloads\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.Properties.Resources.resources
+C:\Users\Diego\Downloads\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.csproj.GenerateResource.cache
+C:\Users\Diego\Downloads\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Downloads\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.exe
+C:\Users\Diego\Downloads\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.pdb
+D:\UNMSM\GESTION DE PROYECTOS DE SW\gps-et-master\AdvancedTextEditorCSharp\bin\Debug\AdvancedTextEditorCSharp.exe
+D:\UNMSM\GESTION DE PROYECTOS DE SW\gps-et-master\AdvancedTextEditorCSharp\bin\Debug\AdvancedTextEditorCSharp.pdb
+D:\UNMSM\GESTION DE PROYECTOS DE SW\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.csprojAssemblyReference.cache
+D:\UNMSM\GESTION DE PROYECTOS DE SW\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.AdvancedTextEditor.resources
+D:\UNMSM\GESTION DE PROYECTOS DE SW\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.Properties.Resources.resources
+D:\UNMSM\GESTION DE PROYECTOS DE SW\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.csproj.GenerateResource.cache
+D:\UNMSM\GESTION DE PROYECTOS DE SW\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.csproj.CoreCompileInputs.cache
+D:\UNMSM\GESTION DE PROYECTOS DE SW\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.exe
+D:\UNMSM\GESTION DE PROYECTOS DE SW\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.pdb
+D:\UNMSM\GESTION DE PROYECTOS DE SW\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.Form1.resources
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\bin\Debug\AdvancedTextEditorCSharp.exe
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\bin\Debug\AdvancedTextEditorCSharp.pdb
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.csprojAssemblyReference.cache
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.AdvancedTextEditor.resources
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.FormEditorTexto.resources
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.Properties.Resources.resources
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.csproj.GenerateResource.cache
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.csproj.CoreCompileInputs.cache
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.exe
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.pdb
+C:\XW_AYUDAS\UNMSM\TRABAJO GRUPAL GP\gps-et-master\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.FormPrincipal.resources
